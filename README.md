@@ -7,9 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
-🚀 **Internship Project | June – July 2024**  
-📍 Center for Data Science and Applied Machine Learning (CDSAML) & Cloud Computing and Big Data (CCBD)  
-
 ---
 
 ## ✨ Project Overview  
@@ -90,6 +87,12 @@ We implemented a **Feature Pyramid Network (FPN)** with **VGG16 backbone** to ef
 - `F` → Forged  
 - `M` → Colored Mask  
 - `B` → Binary Mask  
+### 🖼️ Dataset Samples
+#### Example 1
+<img width="376" height="92" alt="image" src="https://github.com/user-attachments/assets/26318592-ee0d-4c29-847d-9ab632ba5230" />
+
+#### Example 2
+<img width="640" height="322" alt="image" src="https://github.com/user-attachments/assets/820d0e1a-d8ac-4c93-9d21-8fbba92fa13a" />
 
 ---
 
@@ -120,16 +123,12 @@ We implemented a **Feature Pyramid Network (FPN)** with **VGG16 backbone** to ef
 ✅ **Validation Accuracy:** 98.82%  
 ✅ **Test Accuracy:** 98.62%  
 
-#### Example 1
-| Original | Mask | Binary Mask | Forged |
-|----------|--------|-------------------|----------------|
-<img width="376" height="92" alt="image" src="https://github.com/user-attachments/assets/493dd9e5-361e-4463-8f99-3a00f1bee1ae" />
+### 🖼️ Sample Outputs
+#### Example 1 & 2
+<img width="584" height="344" alt="image" src="https://github.com/user-attachments/assets/fcc36c3d-6b16-456e-919d-e590e728bde7" />
 
-
-#### Example 2
-| Original | Forged | Ground Truth Mask | Predicted Mask |
-|----------|--------|-------------------|----------------|
-| ![original](assets/original2.jpg) | ![forged](assets/forged2.jpg) | ![gt](assets/mask_gt2.jpg) | ![pred](assets/mask_pred2.jpg) |
+#### Example 3 & 4
+<img width="639" height="392" alt="image" src="https://github.com/user-attachments/assets/034485e6-bef7-4f24-901f-fc7c80fe10bc" />
 
 ---
 
