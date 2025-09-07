@@ -88,10 +88,10 @@ We implemented a **Feature Pyramid Network (FPN)** with **VGG16 backbone** to ef
 - `M` → Colored Mask  
 - `B` → Binary Mask  
 ### 🖼️ Dataset Samples
-#### Example 1
-<img width="376" height="92" alt="image" src="https://github.com/user-attachments/assets/26318592-ee0d-4c29-847d-9ab632ba5230" />
+#### Example 1 & 2
+<img width="719" height="377" alt="image" src="https://github.com/user-attachments/assets/f6d1e234-637d-44fa-be5f-2cb0aa9e88e9" />
 
-#### Example 2
+#### Example 3 & 4
 <img width="640" height="322" alt="image" src="https://github.com/user-attachments/assets/820d0e1a-d8ac-4c93-9d21-8fbba92fa13a" />
 
 ---
