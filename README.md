@@ -120,6 +120,17 @@ We implemented a **Feature Pyramid Network (FPN)** with **VGG16 backbone** to ef
 ✅ **Validation Accuracy:** 98.82%  
 ✅ **Test Accuracy:** 98.62%  
 
+#### Example 1
+| Original | Mask | Binary Mask | Forged |
+|----------|--------|-------------------|----------------|
+<img width="376" height="92" alt="image" src="https://github.com/user-attachments/assets/493dd9e5-361e-4463-8f99-3a00f1bee1ae" />
+
+
+#### Example 2
+| Original | Forged | Ground Truth Mask | Predicted Mask |
+|----------|--------|-------------------|----------------|
+| ![original](assets/original2.jpg) | ![forged](assets/forged2.jpg) | ![gt](assets/mask_gt2.jpg) | ![pred](assets/mask_pred2.jpg) |
+
 ---
 
 ## 📝 Conclusion & Future Work  
